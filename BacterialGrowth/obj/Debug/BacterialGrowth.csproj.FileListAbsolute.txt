@@ -1,0 +1,10 @@
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\bin\Debug\BacterialGrowth.exe.config
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\bin\Debug\BacterialGrowth.exe
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\bin\Debug\BacterialGrowth.pdb
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.csprojAssemblyReference.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.growthCalcForm.resources
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.Properties.Resources.resources
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.csproj.GenerateResource.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.csproj.CoreCompileInputs.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.exe
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\BacterialGrowth\BacterialGrowth\obj\Debug\BacterialGrowth.pdb
